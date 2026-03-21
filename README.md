@@ -90,8 +90,7 @@
     <div class="projects">
         <h3>Biodata Print Application</h3>
         <p>
-		<script src="cc1.py">
-		</scriptr>
+		
 		</p>
     </div>
     <div class="projects">
